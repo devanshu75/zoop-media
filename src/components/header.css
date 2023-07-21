@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300;400&display=swap');
+
+.logo {
+    font-family: 'Hind', sans-serif;
+    color: #000;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.nav_link {
+    font-family: 'Hind', sans-serif;
+    font-size: 24px;
+    color: #000;
+    font-weight: bold;
+}
